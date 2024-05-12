@@ -6,6 +6,6 @@ La modelación y simulación numérica son herramientas de gran ayuda en la reso
 
 Este repositorio es una traducción de MATLAB a Python de los 12 casos de estudios del texto. Para conocer los enunciados, por favor, consultar el libro original:
 
-Amazon: https://www.amazon.com/METODOS-NUMERICOS-APLICADOS-INGENIERIA-Jorquera/dp/9587780914/
+**Amazon**: https://www.amazon.com/METODOS-NUMERICOS-APLICADOS-INGENIERIA-Jorquera/dp/9587780914/
 
-Alfaomega México: https://alfaomega.com.mx/producto/metodos-numericos-aplicados-a-la-ingenieria/
+**Alfaomega México**: https://alfaomega.com.mx/producto/metodos-numericos-aplicados-a-la-ingenieria/
