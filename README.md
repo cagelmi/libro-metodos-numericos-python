@@ -9,3 +9,12 @@ Este repositorio es una traducción de MATLAB a Python de los 12 casos de estudi
 **Amazon**: https://www.amazon.com/METODOS-NUMERICOS-APLICADOS-INGENIERIA-Jorquera/dp/9587780914/
 
 **Alfaomega México**: https://alfaomega.com.mx/producto/metodos-numericos-aplicados-a-la-ingenieria/
+
+### Requisitos
+Los problemas fueron resueltos utilizando las siguientes versiones:
+
+- `python==3.10.9`
+- `matplotlib==3.7.2`
+- `numpy==1.25.2`
+- `scipy==1.11.1`
+- `statsmodels==0.14.0`
