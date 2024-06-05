@@ -1,4 +1,4 @@
-# Libro "Metodos Numericos Aplicados a la Ingeniería: Casos de estudio utilizando PYTHON" [En Preparación]
+# Libro "Metodos Numericos Aplicados a la Ingeniería: Casos de estudio utilizando PYTHON" [EN PREPARACIÓN]
 ## Por [Héctor Jorquera](https://www.ing.uc.cl/academicos-e-investigadores/hector-ivan-joaquin-jorquera-gonzalez/) y [Claudio Gelmi](https://www.linkedin.com/in/claudiogelmi/)
 
 ### Reseña del libro
