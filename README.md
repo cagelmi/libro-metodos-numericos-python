@@ -13,8 +13,8 @@ Este repositorio es una traducción de MATLAB a Python de los 12 casos de estudi
 ### Requisitos
 Las librerías utilizadas junto a sus respectivas versiones fueron:
 
-`python==3.10.9`
-`matplotlib==3.7.2`
-`numpy==1.25.2`
-`scipy==1.11.1`
-`statsmodels==0.14.0`
+- `python==3.10.9`
+- `matplotlib==3.7.2`
+- `numpy==1.25.2`
+- `scipy==1.11.1`
+- `statsmodels==0.14.0`
