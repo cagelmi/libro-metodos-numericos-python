@@ -10,6 +10,8 @@ Este repositorio es una traducción de MATLAB a Python de los 12 casos de estudi
 
 **Alfaomega México**: https://alfaomega.com.mx/producto/metodos-numericos-aplicados-a-la-ingenieria/
 
+**Ediciones UC** (Chile): https://lea.uc.cl/metodos-numericos-aplicados-a-ingenieria-primera-edicion-2014/p
+
 ### Requisitos
 Las librerías utilizadas junto a sus respectivas versiones fueron:
 
